@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Master's student at the School of AI, Beihang University (BUAA), supervised by Prof. [Lei Sha](https://shalei120.github.io/.). During my internships at [Shanghai AI Lab](https://www.shlab.org.cn/), and [BAAI](https://www.baai.ac.cn/), I was honored to be advised by Prof. [Jing Shao](https://amandajshao.github.io/), and Prof. Jinge Yao.
+I am a second-year master student at the School of AI, Beihang University (BUAA), supervised by Prof. [Lei Sha](https://shalei120.github.io/.). During my internships at [Shanghai AI Lab](https://www.shlab.org.cn/), and [BAAI](https://www.baai.ac.cn/), I was honored to be advised by Prof. [Jing Shao](https://amandajshao.github.io/), and Jinge Yao.
 
 My previous research focused on the safety alignment of LLM and VLM, and I am now seeking a PhD position in LLM long-horizon reasoning research for 2027 Fall.
 
@@ -39,7 +39,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 
   <div class='paper-box-text' markdown="1">
 
-  [Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment](https://arxiv.org/abs/2507.18631.pdf)
+  [Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment](https://arxiv.org/abs/2507.18631)
 
   **Hao Li**\*, Lijun Li*, Zhenghao Lu, Xianyi Wei, Rui Li, Jing Shao, Lei Sha
 
@@ -125,7 +125,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 - [SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=iZcvrH8AAAAJ&citation_for_view=iZcvrH8AAAAJ:Y0pCki6q_DkC), Shanghai AI Lab
 
 # 📖 Educations
-- *2024.09 - now*, Master, Beihang University, Beijing.
+- *2024.09 - present*, Master, Beihang University, Beijing.
 - *2020.09 - 2024.06*, Bachelor, Beihang University, Beijing.
 
 
@@ -140,5 +140,5 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.08 - now*, VLM post-training & evaluation, BAAI, Beijing
+- *2025.08 - present*, VLM post-training & evaluation, BAAI, Beijing
 - *2024.07 – 2025.07*, LLM and VLM safety, Shanghai AI Lab, Beijing and Shanghai
