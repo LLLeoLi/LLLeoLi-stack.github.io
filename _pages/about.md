@@ -77,7 +77,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 
   [LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts](https://arxiv.org/abs/2410.10700v2)
 
-  Qibing Ren*, **Hao Li**/*, Dongrui Liu, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao
+  Qibing Ren\*, **Hao Li**\*, Dongrui Liu, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao
 
   <!-- [**Code**](#) <strong><span class='show_paper_citations' data='fan-etal-2025-metaflowllm'></span></strong>   -->
   </div>
@@ -114,7 +114,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 
   [ASETF: A Novel Method for Jailbreak Attack on LLMs through Translate Suffix Embeddings](https://arxiv.org/abs/2402.16006)
 
-  Xuhao Hu, Dongrui Liu, **Hao Li**, Xuanjing Huang, Jing Shao
+  Hao Wang\*, **Hao Li**\*, Minlie Huang, Lei Sha
 
   <!-- [**Code**](#) <strong><span class='show_paper_citations' data='fan-etal-2025-metaflowllm'></span></strong>   -->
   </div>
