@@ -33,7 +33,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
   <div class='paper-box-image'>
     <div>
       <div class="badge">EMNLP 2025</div>
-      <img src='images/Layer_aware.png' alt="MetaFlowLLM: Generalizing Experience for Language Agents with Hierarchical MetaFlows" width="100%" height="500">
+      <img src='images/Layer_aware.png' alt="Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment" width="100%" height="500">
     </div>
   </div>
 
@@ -51,7 +51,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
   <div class='paper-box-image'>
     <div>
       <div class="badge">EMNLP 2025 Oral</div>
-      <img src='images/DiffusionAttacker.png' alt="MetaFlowLLM: Generalizing Experience for Language Agents with Hierarchical MetaFlows" width="100%" height="500">
+      <img src='images/DiffusionAttacker.png' alt="DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak" width="100%" height="500">
     </div>
   </div>
 
@@ -69,7 +69,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
   <div class='paper-box-image'>
     <div>
       <div class="badge">ACL 2025 Outstanding Paper</div>
-      <img src='images/LLM_konws.png' alt="MetaFlowLLM: Generalizing Experience for Language Agents with Hierarchical MetaFlows" width="100%" height="500">
+      <img src='images/LLM_konws.png' alt="LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts" width="100%" height="500">
     </div>
   </div>
 
@@ -88,7 +88,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
   <div class='paper-box-image'>
     <div>
       <div class="badge">ACL 2025</div>
-      <img src='images/VSLBench.png' alt="MetaFlowLLM: Generalizing Experience for Language Agents with Hierarchical MetaFlows" width="100%" height="500">
+      <img src='images/VSLBench.png' alt="VLSBench: Unveiling Visual Leakage in Multimodal Safety" width="100%" height="500">
     </div>
   </div>
 
@@ -106,7 +106,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
   <div class='paper-box-image'>
     <div>
       <div class="badge">EMNLP 2024 Oral</div>
-      <img src='images/ASETF.png' alt="MetaFlowLLM: Generalizing Experience for Language Agents with Hierarchical MetaFlows" width="100%" height="500">
+      <img src='images/ASETF.png' alt="ASETF: A Novel Method for Jailbreak Attack on LLMs through Translate Suffix Embeddings" width="100%" height="500">
     </div>
   </div>
 
