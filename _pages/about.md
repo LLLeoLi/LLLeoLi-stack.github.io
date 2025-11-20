@@ -17,42 +17,128 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a second-year Master's student at the School of AI, Beihang University (BUAA), supervised by Prof. [Lei Sha](https://shalei120.github.io/.). During my internships at [Shanghai AI Lab](https://www.shlab.org.cn/), and [BAAI](https://www.baai.ac.cn/), I was honored to be advised by Prof. [Jing Shao](https://amandajshao.github.io/), and Prof. Jinge Yao.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My previous research focused on the safety alignment of LLM and VLM, and I am now seeking a PhD position in LLM long-horizon reasoning research for 2027 Fall.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 Two papers (LARF and DIffusionAttacker) are accepted by EMNLP 2025 and DIffusionAttacker is selected as Oral Presentation. 
+- *2025.03*: &nbsp;🎉🎉 Two papers (ActorBreaker and VLSBench) are accepted by ACL 2025 and ActorBreaker is selected as Outstanding Paper.
+- *2024.09*: &nbsp;🎉🎉 ASETF is accepted by EMNLP 2024 and selected as Oral Presentation.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">EMNLP 2025</div>
+      <img src='images/Layer_aware.png' alt="MetaFlowLLM: Generalizing Experience for Language Agents with Hierarchical MetaFlows" width="100%" height="500">
+    </div>
+  </div>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  <div class='paper-box-text' markdown="1">
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  [Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment](https://arxiv.org/abs/2507.18631.pdf)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  **Hao Li**\*, Lijun Li*, Zhenghao Lu, Xianyi Wei, Rui Li, Jing Shao, Lei Sha
+
+  <!-- [**Code**](#) <strong><span class='show_paper_citations' data='fan-etal-2025-metaflowllm'></span></strong>   -->
+  </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">EMNLP 2025 Oral</div>
+      <img src='images/DiffusionAttacker.png' alt="MetaFlowLLM: Generalizing Experience for Language Agents with Hierarchical MetaFlows" width="100%" height="500">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  [DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak](https://arxiv.org/abs/2412.17522)
+
+  Hao Wang, **Hao Li**, Junda Zhu, Xinyuan Wang, Chengwei Pan, Minlie Huang, Lei Sha
+
+  <!-- [**Code**](#) <strong><span class='show_paper_citations' data='fan-etal-2025-metaflowllm'></span></strong>   -->
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2025 Outstanding Paper</div>
+      <img src='images/LLM_konws.png' alt="MetaFlowLLM: Generalizing Experience for Language Agents with Hierarchical MetaFlows" width="100%" height="500">
+    </div>
+  </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  <div class='paper-box-text' markdown="1">
+
+  [LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts](https://arxiv.org/abs/2410.10700v2)
+
+  Qibing Ren*, **Hao Li**/*, Dongrui Liu, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao
+
+  <!-- [**Code**](#) <strong><span class='show_paper_citations' data='fan-etal-2025-metaflowllm'></span></strong>   -->
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2025</div>
+      <img src='images/VSLBench.png' alt="MetaFlowLLM: Generalizing Experience for Language Agents with Hierarchical MetaFlows" width="100%" height="500">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  [VLSBench: Unveiling Visual Leakage in Multimodal Safety](https://arxiv.org/abs/2411.19939)
+
+  Xuhao Hu, Dongrui Liu, **Hao Li**, Xuanjing Huang, Jing Shao
+
+  <!-- [**Code**](#) <strong><span class='show_paper_citations' data='fan-etal-2025-metaflowllm'></span></strong>   -->
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">EMNLP 2024 Oral</div>
+      <img src='images/ASETF.png' alt="MetaFlowLLM: Generalizing Experience for Language Agents with Hierarchical MetaFlows" width="100%" height="500">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  [ASETF: A Novel Method for Jailbreak Attack on LLMs through Translate Suffix Embeddings](https://arxiv.org/abs/2402.16006)
+
+  Xuhao Hu, Dongrui Liu, **Hao Li**, Xuanjing Huang, Jing Shao
+
+  <!-- [**Code**](#) <strong><span class='show_paper_citations' data='fan-etal-2025-metaflowllm'></span></strong>   -->
+  </div>
+</div>
+
+- [AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/abs/2502.16776), CoAI & Lesca Group
+
+- [SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=iZcvrH8AAAAJ&citation_for_view=iZcvrH8AAAAJ:Y0pCki6q_DkC), Shanghai AI Lab
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, Master, Beihang University, Beijing.
+- *2020.09 - 2024.06*, Bachelor, Beihang University, Beijing.
 
-# 💬 Invited Talks
+
+# 🎖 Selected  Honors and Awards
+- *2025*, National Scholarship in China.
+- *2023*, Special Prize (Top 1) in "Challenge Cup" Competition of Science Achievement in China.
+
+
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.08 - now*, VLM post-training & evaluation, BAAI, Beijing
+- *2024.07 – 2025.07*, LLM and VLM safety, Shanghai AI Lab, Beijing and Shanghai
